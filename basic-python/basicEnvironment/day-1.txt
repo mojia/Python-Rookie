@@ -1,0 +1,7 @@
+作业
+1：注册github.com账号。通过这个代码库获取每周作业：https://github.com/mojia/Python-Rookie
+2：注册csdn账号，开通blog。有些作业需要提交blog文章
+3：浏览未来Python相关的职业。见employee.txt
+4：安装Python相关环境
+5：完成第一个Python程序，在屏幕上（Command窗口）打印 "王凯，能通过学习改变命运"
+
